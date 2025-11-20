@@ -1,3 +1,5 @@
+PRINCIPAIS COMANDOS DE DOCKER
+
 docker container run <name of the image> -> run the container from the image
 
 docker ps -a-> list all open containers
@@ -38,4 +40,7 @@ docker commit <name of container> <new name of image> -> add a new layer on top 
 
 docker build -t <name> -f Dockerfile.<any name> (.<local>) -> Create distinct Dockerfiles under same project directory
 
+docker run -v "$(pwd)</any archive or nothing>:<way of the container>" <image name> -> share the file in the container with the host machine
+
+docker run -p <port host>:<port container> <name of image> -> publish a port of a container to the internet
 
