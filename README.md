@@ -44,3 +44,11 @@ docker run -v "$(pwd)</any archive or nothing>:<way of the container>" <image na
 
 docker run -p <port host>:<port container> <name of image> -> publish a port of a container to the internet
 
+
+docker compose up -> To start all the services defined in the docker-compose.yaml 
+
+docker compose down -> To stop and remove the running services
+
+docker compose logs -> see the logs of the running container
+
+docker compose ps -> list al services
