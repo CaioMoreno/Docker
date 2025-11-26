@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.af76d4ff.css",
+    "main.js": "/static/js/main.a16c4bbd.js",
+    "static/media/toskalogo.svg": "/static/media/toskalogo.c0f35cf0bd44ed3ddbe502161f173ded.svg",
+    "index.html": "/index.html",
+    "main.af76d4ff.css.map": "/static/css/main.af76d4ff.css.map",
+    "main.a16c4bbd.js.map": "/static/js/main.a16c4bbd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af76d4ff.css",
+    "static/js/main.a16c4bbd.js"
+  ]
+}
